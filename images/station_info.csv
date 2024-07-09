@@ -1,6 +1,6 @@
 station_sn,station_name,work_area_sn,work_area_name,sub_com_sn,sub_com_name
-station_sn_3,station_sn_3_name,work_area_sn_1,work_area_sn_1_name,sub_com_sn_7,sub_com_sn_7_name
-station_sn_1,station_sn_1_name,work_area_sn_1,work_area_sn_1_name,sub_com_sn_6,sub_com_sn_6_name
-station_sn_5,station_sn_5_name,work_area_sn_1,work_area_sn_1_name,sub_com_sn_7,sub_com_sn_7_name
-station_sn_4,station_sn_4_name,work_area_sn_1,work_area_sn_1_name,sub_com_sn_7,sub_com_sn_7_name
-station_sn_2,station_sn_2_name,work_area_sn_1,work_area_sn_1_name,sub_com_sn_6,sub_com_sn_6_name
+station_sn_4,,work_area_sn_1,,,
+station_sn_5,,work_area_sn_1,,,
+station_sn_1,,work_area_sn_1,,,
+station_sn_2,,work_area_sn_1,,,
+station_sn_3,,work_area_sn_1,,,
